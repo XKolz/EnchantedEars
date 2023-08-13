@@ -33,7 +33,7 @@ State management using Context API.
 
 ## Author:
 
-- **Gulshan Songara** - **[Portfolio Website]()**, **[Linkedin]()**
+- **XKolz** - **[Portfolio Website]()**, **[Linkedin]()**
 
 <br/>
 

@@ -73,7 +73,7 @@ const Footer = () => {
                         <div className="foot_copyright">
                             <p>
                                 {currYear} | EnchantedEars. All Rights Reserved.
-                                Built by | <a href="github/XKolz">Samuel Igbekele</a>
+                                Built by | <a href="github/XKolz">XKolz</a>
                             </p>
                         </div>
                         <div className="foot_social">
